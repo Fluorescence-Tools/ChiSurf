@@ -84,14 +84,14 @@ of charge to both academic and commercial users.
 
 ### Windows
 
-*  [19.07.08](https://github.com/Fluorescence-Tools/ChiSurf/releases/download/Stable/chisurf_19.07.09-windows.exe)
-*  [17.03.24](https://github.com/Fluorescence-Tools/ChiSurf/releases/download/17.03.24/windows_17.03.24.exe)
-*  [16.05.14](https://github.com/Fluorescence-Tools/chisurf/releases/download/16.05.14/windows_16.05.14.exe)
+*  [19.07.08](https://www.peulen.xyz/download/chisurf/chisurf_windows_setup_19.07.09.exe)
+*  [17.03.24](https://www.peulen.xyz/download/chisurf/chisurf_windows_setup_17.03.24.exe)
+*  [16.05.14](https://www.peulen.xyz/download/chisurf/chisurf_windows_setup_16.05.14.exe)
 
 ### MacOS
 
-*  [19.07.08](https://github.com/Fluorescence-Tools/ChiSurf/releases/download/Stable/chisurf_19.07.08-macos.dmg)
-*  [17.03.24](https://github.com/Fluorescence-Tools/ChiSurf/releases/download/17.03.24/macos_17.03.24.zip)
+*  [19.07.08](https://www.peulen.xyz/download/chisurf/chisurf_macos_190708.dmg)
+*  [15.05.14](https://www.peulen.xyz/download/chisurf/chisurf_macos_150514.dmg)
 
 ### Linux
 
